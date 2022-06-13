@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+div
+{
+    margin: 0% auto;
+    background-color: azure;
+    border: 1px solid black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: auto;
+    margin: auto
+}
+input
+{
+    margin: 1%;
+}
+button
+{
+    margin: 1%;
+    color: rgb(231, 45, 12);
+}
