@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yogesh-zone.github.io/TodoList/static/css/main.bcdd56b9.css",
-    "main.js": "/yogesh-zone.github.io/TodoList/static/js/main.83c52003.js",
-    "index.html": "/yogesh-zone.github.io/TodoList/index.html",
-    "main.bcdd56b9.css.map": "/yogesh-zone.github.io/TodoList/static/css/main.bcdd56b9.css.map",
-    "main.83c52003.js.map": "/yogesh-zone.github.io/TodoList/static/js/main.83c52003.js.map"
+    "main.css": "/TodoList/static/css/main.bcdd56b9.css",
+    "main.js": "/TodoList/static/js/main.83c52003.js",
+    "index.html": "/TodoList/index.html",
+    "main.bcdd56b9.css.map": "/TodoList/static/css/main.bcdd56b9.css.map",
+    "main.83c52003.js.map": "/TodoList/static/js/main.83c52003.js.map"
   },
   "entrypoints": [
     "static/css/main.bcdd56b9.css",
