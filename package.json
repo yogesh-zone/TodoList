@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://yogesh-zone.github.io/TodoList/",
+  "homepage": "https://yogesh-zone.github.io/TodoList",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
